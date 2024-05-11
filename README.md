@@ -1,5 +1,3 @@
-# Criando-Uma-API-Com-FastAPI-Utilizando-TDD
-
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=STATUS&message=Concluded&color=blue&style=flat"/>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rafa-KozAnd/Challenge-API_FastAPI-TDD">
